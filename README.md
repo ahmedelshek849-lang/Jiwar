@@ -11,7 +11,7 @@ Jiwar is a cultural center project located in Siwa Oasis, directly overlooking t
 ## 👥 Team Members
 - **Ahmed Wageeh** (Leader)
 - **Youssef Mohamed**
-- **Abdelrahman Hisham**
+- **Sally kassem**
 - **Tony Samir**
 
 ---
