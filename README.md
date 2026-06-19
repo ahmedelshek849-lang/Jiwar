@@ -68,4 +68,4 @@ Jiwar is a cultural center project located in Siwa Oasis, directly overlooking t
 - [🔗 Click here to view Phase 1 Presentation (Weeks 1 & 2)](https://htioedu-my.sharepoint.com/:p:/g/personal/32023032_hti-o_edu_eg/IQBo3PUvDjKLT5yhtxjTSB96ATo7wa3ubrcfJOkvACPFrK8?e=S1OJPu)
 # Project Files
 
-[Project Google Drive Folder](https://drive.google.com/drive/folders/xxxxxxxxxxxx)
+[Project Google Drive Folder](https://drive.google.com/file/d/1DwUGkelvjf8lHEUBFHjqnKKc_ceJCDOC/view?usp=drivesdk)
