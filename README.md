@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- حط لينك اللوجو بتاعك هنا مكان الكلمة دي -->
-  <img src="LINK_EL_LOGO_HENA" alt="Jiwar Logo" width="250">
+  <img src="Cover.png" alt="Jiwar Logo" width="250">
 
-  # JIWAR (جوار) — Cultural Center in Siwa Oasis
+  # JIWAR (جوار) — Siwa Cultural Center
   **From Siwa to the world.**
 
   [Overview](#-project-overview) • [Brand Identity](#-brand-identity) • [Scope](#-project-scope) • [20-Week Timeline](#-project-timeline-20-weeks) • [Team](#-meet-our-team)
