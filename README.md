@@ -3,7 +3,7 @@
   <!-- حط لينك اللوجو بتاعك هنا مكان الكلمة دي -->
   <img src="Cover.png" alt="Jiwar Logo" width="800">
 
-  # JIWAR (جوار) — Siwa Cultural Center
+  # JIWAR (چوار) — Siwa Cultural Center
   **From Siwa to the world.**
 
   [Overview](#-project-overview) • [Brand Identity](#-brand-identity) • [Scope](#-project-scope) • [20-Week Timeline](#-project-timeline-20-weeks) • [Team](#-meet-our-team)
