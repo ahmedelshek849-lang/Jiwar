@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- حط لينك اللوجو بتاعك هنا مكان الكلمة دي -->
-  <img src="Cover.png" alt="Jiwar Logo" width="250">
+  <img src="Cover.png" alt="Jiwar Logo" width="800">
 
   # JIWAR (جوار) — Siwa Cultural Center
   **From Siwa to the world.**
